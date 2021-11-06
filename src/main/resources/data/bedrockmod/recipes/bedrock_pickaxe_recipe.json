@@ -1,0 +1,30 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bedrock"
+    },
+    "1": {
+      "item": "minecraft:bedrock"
+    },
+    "2": {
+      "item": "minecraft:bedrock"
+    },
+    "4": {
+      "item": "bedrockmod:bedrock_stick"
+    },
+    "7": {
+      "item": "bedrockmod:bedrock_stick"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:bedrock_pickaxe",
+    "count": 1
+  }
+}

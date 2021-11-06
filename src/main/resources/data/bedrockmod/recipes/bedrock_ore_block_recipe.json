@@ -1,0 +1,42 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bedrockmod:bedrock_ingot"
+    },
+    "1": {
+      "item": "bedrockmod:bedrock_ingot"
+    },
+    "2": {
+      "item": "bedrockmod:bedrock_ingot"
+    },
+    "3": {
+      "item": "bedrockmod:bedrock_ingot"
+    },
+    "4": {
+      "item": "bedrockmod:bedrock_ingot"
+    },
+    "5": {
+      "item": "bedrockmod:bedrock_ingot"
+    },
+    "6": {
+      "item": "bedrockmod:bedrock_ingot"
+    },
+    "7": {
+      "item": "bedrockmod:bedrock_ingot"
+    },
+    "8": {
+      "item": "bedrockmod:bedrock_ingot"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:bedrock_block",
+    "count": 1
+  }
+}

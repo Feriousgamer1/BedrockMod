@@ -1,0 +1,12 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "bedrockmod:bedrock_ore"
+  },
+  "result": {
+    "item": "bedrockmod:bedrock_ingot"
+  }
+}

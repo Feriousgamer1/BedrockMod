@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "bedrockmod:bedrock_sword"
+    },
+    "title": {
+      "translate": "advancements.parent_bedrock.title"
+    },
+    "description": {
+      "translate": "advancements.parent_bedrock.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "parent_bedrock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bedrockmod:bedrock_ingot",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "bedrockmod:wtf"
+}

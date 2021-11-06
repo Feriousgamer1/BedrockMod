@@ -1,0 +1,13 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bedrockmod:bedrock_block"
+    }
+  ],
+  "result": {
+    "item": "bedrockmod:bedrock_ingot",
+    "count": 9
+  }
+}

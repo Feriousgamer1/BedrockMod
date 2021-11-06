@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "bedrockmod:block/yowtf_portal_ew"
+    },
+    "axis=x": {
+      "model": "bedrockmod:block/yowtf_portal_ns"
+    }
+  }
+}

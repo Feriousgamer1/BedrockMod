@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bedrockmod:block/bedrock_ore"
+    }
+  }
+}
