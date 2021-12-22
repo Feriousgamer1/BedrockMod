@@ -2,17 +2,17 @@
   "_fv": 24,
   "_type": "potion",
   "definition": {
-    "potionName": "Potion of OP",
-    "splashName": "Splash Potion of OP",
-    "lingeringName": "Lingering Potion of OP",
-    "arrowName": "Arrow of OP",
+    "potionName": "potion of unkillable",
+    "splashName": "splash potion of unkillable",
+    "lingeringName": "lingering potion of unkillable",
+    "arrowName": "DONT MAKE THIS",
     "effects": [
       {
         "effect": {
           "value": "SPEED"
         },
-        "duration": 9999,
-        "amplifier": 3,
+        "duration": 72000,
+        "amplifier": 5,
         "ambient": true,
         "showParticles": true
       },
@@ -20,8 +20,8 @@
         "effect": {
           "value": "HASTE"
         },
-        "duration": 9999,
-        "amplifier": 5,
+        "duration": 72000,
+        "amplifier": 10,
         "ambient": false,
         "showParticles": true
       },
@@ -29,8 +29,8 @@
         "effect": {
           "value": "INSTANT_HEALTH"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 100,
         "ambient": false,
         "showParticles": true
       },
@@ -38,8 +38,8 @@
         "effect": {
           "value": "STRENGTH"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 255,
         "ambient": false,
         "showParticles": true
       },
@@ -47,8 +47,8 @@
         "effect": {
           "value": "REGENERATION"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 255,
         "ambient": false,
         "showParticles": true
       },
@@ -56,8 +56,8 @@
         "effect": {
           "value": "RESISTANCE"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 255,
         "ambient": false,
         "showParticles": true
       },
@@ -65,8 +65,8 @@
         "effect": {
           "value": "FIRE_RESISTANCE"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 255,
         "ambient": false,
         "showParticles": true
       },
@@ -74,8 +74,8 @@
         "effect": {
           "value": "WATER_BREATHING"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 255,
         "ambient": false,
         "showParticles": true
       },
@@ -83,8 +83,8 @@
         "effect": {
           "value": "HEALTH_BOOST"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 100,
         "ambient": false,
         "showParticles": true
       },
@@ -92,8 +92,8 @@
         "effect": {
           "value": "ABSORPTION"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 50,
         "ambient": false,
         "showParticles": true
       },
@@ -101,8 +101,8 @@
         "effect": {
           "value": "LUCK"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 255,
         "ambient": false,
         "showParticles": true
       },
@@ -110,8 +110,8 @@
         "effect": {
           "value": "CONDUIT_POWER"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 255,
         "ambient": false,
         "showParticles": true
       },
@@ -119,8 +119,8 @@
         "effect": {
           "value": "HERO_OF_THE_VILLAGE"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 255,
         "ambient": false,
         "showParticles": true
       },
@@ -128,8 +128,17 @@
         "effect": {
           "value": "DOLPHINS_GRACE"
         },
-        "duration": 9999,
-        "amplifier": 20,
+        "duration": 72000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "SATURATION"
+        },
+        "duration": 72000,
+        "amplifier": 255,
         "ambient": false,
         "showParticles": true
       }

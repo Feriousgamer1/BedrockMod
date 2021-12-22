@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "bedrockmod:items/bedrocktools_axe"
+    "layer0": "bedrockmod:items/rainbow_axe"
   }
 }

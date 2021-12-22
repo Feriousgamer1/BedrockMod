@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "bedrockmod:items/bedrocktools_pickaxe"
+    "layer0": "bedrockmod:items/rainbow_diamond_pickaxe"
   }
 }

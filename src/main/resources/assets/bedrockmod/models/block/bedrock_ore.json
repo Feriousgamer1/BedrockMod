@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "bedrockmod:blocks/bedrock_ore",
-    "particle": "bedrockmod:blocks/bedrock_ore"
+    "all": "bedrockmod:blocks/rainbow_diamond_ore",
+    "particle": "bedrockmod:blocks/rainbow_diamond_ore"
   }
 }

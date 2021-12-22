@@ -9,13 +9,14 @@ import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
 import net.minecraft.item.HoeItem;
 
-import net.mcreator.bedrockmod.itemgroup.BedrockItemGroup;
+import net.mcreator.bedrockmod.itemgroup.RainbowTabItemGroup;
 import net.mcreator.bedrockmod.BedrockmodModElements;
 
 @BedrockmodModElements.ModElement.Tag
 public class BedrockHoeItem extends BedrockmodModElements.ModElement {
 	@ObjectHolder("bedrockmod:bedrock_hoe")
 	public static final Item block = null;
+
 	public BedrockHoeItem(BedrockmodModElements instance) {
 		super(instance, 11);
 	}
@@ -46,7 +47,7 @@ public class BedrockHoeItem extends BedrockmodModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(BedrockIngotItem.block));
 			}
-		}, 0, 6f, new Item.Properties().group(BedrockItemGroup.tab).isImmuneToFire()) {
+		}, 0, 6f, new Item.Properties().group(RainbowTabItemGroup.tab).isImmuneToFire()) {
 		}.setRegistryName("bedrock_hoe"));
 	}
 }

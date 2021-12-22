@@ -3,12 +3,12 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "bedrocktools_sword",
+    "texture": "ultra_rainbow_sword",
     "customModelName": "Normal",
-    "name": "Bedrock Sword",
+    "name": "Rainbow Sword",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Bedrock"
+      "value": "CUSTOM:RainbowTab"
     },
     "toolType": "Sword",
     "harvestLevel": 4,

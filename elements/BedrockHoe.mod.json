@@ -3,12 +3,12 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "bedrocktools_hoe",
+    "texture": "rainbow_hoe",
     "customModelName": "Normal",
-    "name": "Bedrock Hoe",
+    "name": "Rainbow Hoe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Bedrock"
+      "value": "CUSTOM:RainbowTab"
     },
     "toolType": "Hoe",
     "harvestLevel": 30,

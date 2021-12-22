@@ -3,12 +3,12 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "bedrocktools_pickaxe",
+    "texture": "rainbow_diamond_pickaxe",
     "customModelName": "Normal",
-    "name": "Bedrock Pickaxe",
+    "name": "Rainbow Pickaxe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Bedrock"
+      "value": "CUSTOM:RainbowTab"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 100,

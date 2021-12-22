@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "bedrockmod:items/bedrocktools_sword"
+    "layer0": "bedrockmod:items/ultra_rainbow_sword"
   }
 }

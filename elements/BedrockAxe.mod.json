@@ -3,12 +3,12 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "bedrocktools_axe",
+    "texture": "rainbow_axe",
     "customModelName": "Normal",
-    "name": "Bedrock Axe",
+    "name": "Rainbow Axe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Bedrock"
+      "value": "CUSTOM:RainbowTab"
     },
     "toolType": "Axe",
     "harvestLevel": 100,

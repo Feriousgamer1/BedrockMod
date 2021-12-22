@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bedrockmod:evil_block"
+    },
+    "2": {
+      "item": "bedrockmod:evil_block"
+    },
+    "3": {
+      "item": "bedrockmod:evil_block"
+    },
+    "4": {
+      "item": "bedrockmod:evil_block"
+    },
+    "5": {
+      "item": "bedrockmod:evil_block"
+    },
+    "6": {
+      "item": "bedrockmod:evil_block"
+    },
+    "7": {
+      "item": "bedrockmod:evil_block"
+    },
+    "8": {
+      "item": "bedrockmod:evil_block"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:evil_armor_chestplate",
+    "count": 1
+  }
+}

@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "images_1",
+    "texture": "rainbow_stick",
     "customModelName": "Normal",
     "name": "Bedrock Stick",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:RainbowTab"
     },
     "stackSize": 64,
     "enchantability": 0,

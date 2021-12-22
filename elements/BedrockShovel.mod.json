@@ -3,12 +3,12 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "bedrocktools_shovel",
+    "texture": "rainbow_shovel",
     "customModelName": "Normal",
-    "name": "Bedrock Shovel",
+    "name": "Rainbow Shovel",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Bedrock"
+      "value": "CUSTOM:RainbowTab"
     },
     "toolType": "Spade",
     "harvestLevel": 30,

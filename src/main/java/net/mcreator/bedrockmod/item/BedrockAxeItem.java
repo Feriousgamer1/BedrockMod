@@ -9,7 +9,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
 import net.minecraft.item.AxeItem;
 
-import net.mcreator.bedrockmod.itemgroup.BedrockItemGroup;
+import net.mcreator.bedrockmod.itemgroup.RainbowTabItemGroup;
 import net.mcreator.bedrockmod.block.BedrockBlockBlock;
 import net.mcreator.bedrockmod.BedrockmodModElements;
 
@@ -17,6 +17,7 @@ import net.mcreator.bedrockmod.BedrockmodModElements;
 public class BedrockAxeItem extends BedrockmodModElements.ModElement {
 	@ObjectHolder("bedrockmod:bedrock_axe")
 	public static final Item block = null;
+
 	public BedrockAxeItem(BedrockmodModElements instance) {
 		super(instance, 8);
 	}
@@ -47,7 +48,7 @@ public class BedrockAxeItem extends BedrockmodModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(BedrockIngotItem.block), new ItemStack(BedrockBlockBlock.block));
 			}
-		}, 1, 96f, new Item.Properties().group(BedrockItemGroup.tab).isImmuneToFire()) {
+		}, 1, 96f, new Item.Properties().group(RainbowTabItemGroup.tab).isImmuneToFire()) {
 		}.setRegistryName("bedrock_axe"));
 	}
 }

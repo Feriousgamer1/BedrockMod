@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "bedrockmod:items/bedrock_head"
+    "layer0": "bedrockmod:items/rainbow_helmet"
   }
 }

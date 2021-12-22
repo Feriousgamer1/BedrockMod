@@ -44,6 +44,7 @@ public class BedrockmodModElements {
 	public final List<Supplier<EntityType<?>>> entities = new ArrayList<>();
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
+
 	public BedrockmodModElements() {
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("bedrockmod").getFile().getScanResult();
@@ -66,7 +67,9 @@ public class BedrockmodModElements {
 		for (Map.Entry<ResourceLocation, net.minecraft.util.SoundEvent> sound : sounds.entrySet())
 			event.getRegistry().register(sound.getValue().setRegistryName(sound.getKey()));
 	}
+
 	private int messageID = 0;
+
 	public <T> void addNetworkMessage(Class<T> messageType, BiConsumer<T, PacketBuffer> encoder, Function<PacketBuffer, T> decoder,
 			BiConsumer<T, Supplier<NetworkEvent.Context>> messageConsumer) {
 		BedrockmodMod.PACKET_HANDLER.registerMessage(messageID, messageType, encoder, decoder, messageConsumer);
@@ -92,12 +95,15 @@ public class BedrockmodModElements {
 	public List<Supplier<Enchantment>> getEnchantments() {
 		return enchantments;
 	}
+
 	public static class ModElement implements Comparable<ModElement> {
 		@Retention(RetentionPolicy.RUNTIME)
 		public @interface Tag {
 		}
+
 		protected final BedrockmodModElements elements;
 		protected final int sortid;
+
 		public ModElement(BedrockmodModElements elements, int sortid) {
 			this.elements = elements;
 			this.sortid = sortid;

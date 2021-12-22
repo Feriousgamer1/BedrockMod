@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "3 5",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "item": "bedrockmod:evil_stick"
+    },
+    "1": {
+      "item": "bedrockmod:evil_block"
+    },
+    "3": {
+      "item": "bedrockmod:evil_stick"
+    },
+    "5": {
+      "item": "bedrockmod:evil_block"
+    },
+    "6": {
+      "item": "bedrockmod:evil_stick"
+    },
+    "7": {
+      "item": "bedrockmod:evil_block"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:demon_bow",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "bedrockmod:items/ultra_dark_fire_sword"
+  }
+}

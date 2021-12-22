@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EvilBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EvilBlock"
+      },
+      {
+        "value": "CUSTOM:EvilBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EvilBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EvilArmor.boots"
+    },
+    "name": "evil_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "3 5",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "item": "bedrockmod:bedrock_stick"
+    },
+    "1": {
+      "item": "minecraft:bedrock"
+    },
+    "3": {
+      "item": "bedrockmod:bedrock_stick"
+    },
+    "5": {
+      "item": "minecraft:bedrock"
+    },
+    "6": {
+      "item": "bedrockmod:bedrock_stick"
+    },
+    "7": {
+      "item": "minecraft:bedrock"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:rainbow_bow",
+    "count": 1
+  }
+}

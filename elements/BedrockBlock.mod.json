@@ -2,14 +2,14 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "bedrock_ore_block",
-    "textureTop": "",
-    "textureLeft": "",
-    "textureFront": "",
-    "textureRight": "",
-    "textureBack": "",
-    "renderType": 11,
-    "customModelName": "Single texture",
+    "texture": "block_of_rainbow",
+    "textureTop": "block_of_rainbow",
+    "textureLeft": "block_of_rainbow",
+    "textureFront": "block_of_rainbow",
+    "textureRight": "block_of_rainbow",
+    "textureBack": "block_of_rainbow",
+    "renderType": 10,
+    "customModelName": "Normal",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -34,12 +34,12 @@
     ],
     "name": "Block of Bedrock",
     "specialInfo": [],
-    "hardness": 5.0,
-    "resistance": 10.0,
+    "hardness": 64000.0,
+    "resistance": 2.0E9,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:Bedrock"
+      "value": "CUSTOM:RainbowTab"
     },
     "destroyTool": "pickaxe",
     "customDrop": {
@@ -96,7 +96,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 2,
+    "breakHarvestLevel": 20,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"

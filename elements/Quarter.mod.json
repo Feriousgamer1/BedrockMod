@@ -1,0 +1,48 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Quarter",
+    "splashName": "Why did you make this?",
+    "lingeringName": "Why did you make this?",
+    "arrowName": "Why did you make this?",
+    "effects": [
+      {
+        "effect": {
+          "value": "RESISTANCE"
+        },
+        "duration": 1800,
+        "amplifier": 2,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "HASTE"
+        },
+        "duration": 1800,
+        "amplifier": 2,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "REGENERATION"
+        },
+        "duration": 1800,
+        "amplifier": 2,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "STRENGTH"
+        },
+        "duration": 1800,
+        "amplifier": 2,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

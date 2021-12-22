@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "bedrock_ingot",
+    "texture": "rainbow_ingot",
     "customModelName": "Normal",
     "name": "Bedrock",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:Bedrock"
+      "value": "CUSTOM:RainbowTab"
     },
     "stackSize": 64,
     "enchantability": 0,

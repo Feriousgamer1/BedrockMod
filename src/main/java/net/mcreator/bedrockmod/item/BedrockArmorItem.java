@@ -15,7 +15,7 @@ import net.minecraft.item.ArmorItem;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.entity.Entity;
 
-import net.mcreator.bedrockmod.itemgroup.BedrockItemGroup;
+import net.mcreator.bedrockmod.itemgroup.RainbowTabItemGroup;
 import net.mcreator.bedrockmod.block.BedrockBlockBlock;
 import net.mcreator.bedrockmod.BedrockmodModElements;
 
@@ -29,6 +29,7 @@ public class BedrockArmorItem extends BedrockmodModElements.ModElement {
 	public static final Item legs = null;
 	@ObjectHolder("bedrockmod:bedrock_armor_boots")
 	public static final Item boots = null;
+
 	public BedrockArmorItem(BedrockmodModElements instance) {
 		super(instance, 17);
 	}
@@ -77,29 +78,34 @@ public class BedrockArmorItem extends BedrockmodModElements.ModElement {
 				return 5f;
 			}
 		};
-		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.HEAD, new Item.Properties().group(BedrockItemGroup.tab)) {
-			@Override
-			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "bedrockmod:textures/models/armor/bedrock_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
-			}
-		}.setRegistryName("bedrock_armor_helmet"));
-		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.CHEST, new Item.Properties().group(BedrockItemGroup.tab)) {
-			@Override
-			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "bedrockmod:textures/models/armor/bedrock_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
-			}
-		}.setRegistryName("bedrock_armor_chestplate"));
-		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.LEGS, new Item.Properties().group(BedrockItemGroup.tab)) {
-			@Override
-			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "bedrockmod:textures/models/armor/bedrock_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
-			}
-		}.setRegistryName("bedrock_armor_leggings"));
-		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.FEET, new Item.Properties().group(BedrockItemGroup.tab)) {
-			@Override
-			public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
-				return "bedrockmod:textures/models/armor/bedrock_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
-			}
-		}.setRegistryName("bedrock_armor_boots"));
+		elements.items.add(
+				() -> new ArmorItem(armormaterial, EquipmentSlotType.HEAD, new Item.Properties().group(RainbowTabItemGroup.tab).isImmuneToFire()) {
+					@Override
+					public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
+						return "bedrockmod:textures/models/armor/rainbow_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+					}
+				}.setRegistryName("bedrock_armor_helmet"));
+		elements.items.add(
+				() -> new ArmorItem(armormaterial, EquipmentSlotType.CHEST, new Item.Properties().group(RainbowTabItemGroup.tab).isImmuneToFire()) {
+					@Override
+					public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
+						return "bedrockmod:textures/models/armor/rainbow_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+					}
+				}.setRegistryName("bedrock_armor_chestplate"));
+		elements.items.add(
+				() -> new ArmorItem(armormaterial, EquipmentSlotType.LEGS, new Item.Properties().group(RainbowTabItemGroup.tab).isImmuneToFire()) {
+					@Override
+					public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
+						return "bedrockmod:textures/models/armor/rainbow_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+					}
+				}.setRegistryName("bedrock_armor_leggings"));
+		elements.items.add(
+				() -> new ArmorItem(armormaterial, EquipmentSlotType.FEET, new Item.Properties().group(RainbowTabItemGroup.tab).isImmuneToFire()) {
+					@Override
+					public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlotType slot, String type) {
+						return "bedrockmod:textures/models/armor/rainbow_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
+					}
+				}.setRegistryName("bedrock_armor_boots"));
 	}
+
 }

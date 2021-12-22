@@ -1,0 +1,57 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Threequarters",
+    "splashName": "WHY DID YOU MAKE THIS",
+    "lingeringName": "WHY DID YOU MAKE THIS",
+    "arrowName": "WHY DID YOU MAKE THIS",
+    "effects": [
+      {
+        "effect": {
+          "value": "STRENGTH"
+        },
+        "duration": 7200,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "REGENERATION"
+        },
+        "duration": 7200,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "RESISTANCE"
+        },
+        "duration": 7200,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "ABSORPTION"
+        },
+        "duration": 7200,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "HERO_OF_THE_VILLAGE"
+        },
+        "duration": 7200,
+        "amplifier": 10,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

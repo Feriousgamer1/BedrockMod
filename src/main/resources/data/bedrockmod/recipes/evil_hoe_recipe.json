@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "bedrockmod:evil_block"
+    },
+    "1": {
+      "item": "bedrockmod:evil_block"
+    },
+    "3": {
+      "item": "bedrockmod:evil_stick"
+    },
+    "5": {
+      "item": "bedrockmod:evil_stick"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:evil_hoe",
+    "count": 1
+  }
+}

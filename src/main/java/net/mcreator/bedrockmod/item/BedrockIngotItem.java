@@ -8,13 +8,14 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
-import net.mcreator.bedrockmod.itemgroup.BedrockItemGroup;
+import net.mcreator.bedrockmod.itemgroup.RainbowTabItemGroup;
 import net.mcreator.bedrockmod.BedrockmodModElements;
 
 @BedrockmodModElements.ModElement.Tag
 public class BedrockIngotItem extends BedrockmodModElements.ModElement {
 	@ObjectHolder("bedrockmod:bedrock_ingot")
 	public static final Item block = null;
+
 	public BedrockIngotItem(BedrockmodModElements instance) {
 		super(instance, 1);
 	}
@@ -23,9 +24,10 @@ public class BedrockIngotItem extends BedrockmodModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new ItemCustom());
 	}
+
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(BedrockItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(RainbowTabItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("bedrock_ingot");
 		}
 

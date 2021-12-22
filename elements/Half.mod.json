@@ -1,0 +1,48 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Half way there",
+    "splashName": "why did you make this",
+    "lingeringName": "why did you make this",
+    "arrowName": "why did you make this",
+    "effects": [
+      {
+        "effect": {
+          "value": "STRENGTH"
+        },
+        "duration": 3600,
+        "amplifier": 4,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "REGENERATION"
+        },
+        "duration": 3600,
+        "amplifier": 4,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "RESISTANCE"
+        },
+        "duration": 3600,
+        "amplifier": 4,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "ABSORPTION"
+        },
+        "duration": 3600,
+        "amplifier": 4,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

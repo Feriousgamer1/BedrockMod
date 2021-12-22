@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "bedrockmod:items/images_1"
+    "layer0": "bedrockmod:items/rainbow_stick"
   }
 }

@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rainbow_hammer",
+    "customModelName": "Normal",
+    "name": "Glass Breaker",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RainbowTab"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1200,
+    "efficiency": 128000.0,
+    "attackSpeed": 100.0,
+    "enchantability": 1000,
+    "damageVsEntity": 0.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bedrockmod:blocks/dark_ore",
+    "particle": "bedrockmod:blocks/dark_ore"
+  }
+}

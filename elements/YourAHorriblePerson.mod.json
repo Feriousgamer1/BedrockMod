@@ -1,0 +1,75 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Unlucky potion",
+    "splashName": "Unlucky splash potion",
+    "lingeringName": "Unlucky lingering potion",
+    "arrowName": "Unlucky Arrow",
+    "effects": [
+      {
+        "effect": {
+          "value": "SLOWNESS"
+        },
+        "duration": 72000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "MINING_FATIGUE"
+        },
+        "duration": 72000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "NAUSEA"
+        },
+        "duration": 72000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "BLINDNESS"
+        },
+        "duration": 72000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "WEAKNESS"
+        },
+        "duration": 72000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "UNLUCK"
+        },
+        "duration": 72000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "RESISTANCE"
+        },
+        "duration": 72000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

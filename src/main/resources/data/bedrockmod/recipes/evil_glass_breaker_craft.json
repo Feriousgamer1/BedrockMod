@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "bedrockmod:evil"
+    },
+    "1": {
+      "item": "bedrockmod:evil"
+    },
+    "2": {
+      "item": "bedrockmod:evil"
+    },
+    "3": {
+      "item": "bedrockmod:evil"
+    },
+    "4": {
+      "item": "bedrockmod:evil"
+    },
+    "5": {
+      "item": "bedrockmod:evil"
+    },
+    "7": {
+      "item": "bedrockmod:evil_stick"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:evil_breaker",
+    "count": 1
+  }
+}
