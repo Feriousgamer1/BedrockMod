@@ -1,0 +1,18 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:golden_key",
+    "count": 1
+  }
+}

@@ -141,6 +141,15 @@
         "amplifier": 255,
         "ambient": false,
         "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "CUSTOM:RainbowFlight"
+        },
+        "duration": 72000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": true
       }
     ]
   }

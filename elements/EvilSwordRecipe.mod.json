@@ -13,7 +13,7 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:EvilBlock"
+        "value": "CUSTOM:DarkBlock"
       },
       {
         "value": ""
@@ -22,7 +22,7 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:EvilBlock"
+        "value": "CUSTOM:DarkBlock"
       },
       {
         "value": ""
@@ -31,14 +31,14 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:EvilStick"
+        "value": "CUSTOM:DarkStick"
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:EvilSword"
+      "value": "CUSTOM:BedrockSword"
     },
     "name": "evil_sword_recipe",
     "namespace": "mod"

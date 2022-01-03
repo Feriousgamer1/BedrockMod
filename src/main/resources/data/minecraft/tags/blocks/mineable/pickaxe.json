@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "bedrockmod:bedrock_ore",
+    "bedrockmod:bedrock_block",
+    "bedrockmod:rainbow_glass",
+    "bedrockmod:dark_ore",
+    "bedrockmod:dark_block",
+    "bedrockmod:dark_glass",
+    "bedrockmod:locked_crate",
+    "bedrockmod:rainbow_crate"
+  ]
+}

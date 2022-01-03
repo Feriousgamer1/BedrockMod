@@ -1,11 +1,11 @@
 {
   "type": "minecraft:smelting",
-  "experience": 7,
-  "cookingtime": 200,
+  "experience": 20,
+  "cookingtime": 1000,
   "ingredient": {
-    "item": "bedrockmod:evil_ore"
+    "item": "bedrockmod:dark_ore"
   },
   "result": {
-    "item": "bedrockmod:evil"
+    "item": "bedrockmod:dark_ingot"
   }
 }

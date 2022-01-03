@@ -1,18 +1,16 @@
 {
+  "group": "bedrockmod",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "0",
-    "1",
-    "2"
+    "B",
+    "E",
+    "E"
   ],
   "key": {
-    "0": {
+    "B": {
       "item": "minecraft:bedrock"
     },
-    "1": {
-      "item": "bedrockmod:bedrock_stick"
-    },
-    "2": {
+    "E": {
       "item": "bedrockmod:bedrock_stick"
     }
   },

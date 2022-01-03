@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "bedrockmod:blocks/images",
-    "particle": "bedrockmod:blocks/images"
-  }
-}

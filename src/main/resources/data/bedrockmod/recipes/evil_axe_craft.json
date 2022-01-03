@@ -1,0 +1,21 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DD",
+    "DA",
+    " A"
+  ],
+  "key": {
+    "D": {
+      "item": "bedrockmod:dark_block"
+    },
+    "A": {
+      "item": "bedrockmod:dark_stick"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:dark_axe",
+    "count": 1
+  }
+}

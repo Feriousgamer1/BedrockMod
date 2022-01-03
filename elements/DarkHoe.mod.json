@@ -1,0 +1,30 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "dark_hoe",
+    "customModelName": "Normal",
+    "name": "Evil Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RainbowTab"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 30,
+    "efficiency": 30.0,
+    "attackSpeed": 10.0,
+    "enchantability": 100,
+    "damageVsEntity": 0.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "HoeBuffs"
+    }
+  }
+}

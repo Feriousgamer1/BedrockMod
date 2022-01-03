@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bedrockmod:blocks/crate",
+    "up": "bedrockmod:blocks/crate",
+    "north": "bedrockmod:blocks/crate",
+    "east": "bedrockmod:blocks/crate",
+    "south": "bedrockmod:blocks/crate",
+    "west": "bedrockmod:blocks/crate",
+    "particle": "bedrockmod:blocks/crate"
+  }
+}

@@ -1,53 +1,42 @@
 
 package net.mcreator.bedrockmod.item;
 
-import net.minecraftforge.registries.ObjectHolder;
+import net.minecraft.world.item.crafting.Ingredient;
+import net.minecraft.world.item.Tier;
+import net.minecraft.world.item.SwordItem;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Item;
 
-import net.minecraft.item.crafting.Ingredient;
-import net.minecraft.item.SwordItem;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.Item;
-import net.minecraft.item.IItemTier;
+import net.mcreator.bedrockmod.init.BedrockmodModTabs;
+import net.mcreator.bedrockmod.init.BedrockmodModItems;
 
-import net.mcreator.bedrockmod.itemgroup.RainbowTabItemGroup;
-import net.mcreator.bedrockmod.BedrockmodModElements;
-
-@BedrockmodModElements.ModElement.Tag
-public class BedrockSwordItem extends BedrockmodModElements.ModElement {
-	@ObjectHolder("bedrockmod:bedrock_sword")
-	public static final Item block = null;
-
-	public BedrockSwordItem(BedrockmodModElements instance) {
-		super(instance, 9);
-	}
-
-	@Override
-	public void initElements() {
-		elements.items.add(() -> new SwordItem(new IItemTier() {
-			public int getMaxUses() {
+public class BedrockSwordItem extends SwordItem {
+	public BedrockSwordItem() {
+		super(new Tier() {
+			public int getUses() {
 				return 0;
 			}
 
-			public float getEfficiency() {
+			public float getSpeed() {
 				return 20f;
 			}
 
-			public float getAttackDamage() {
+			public float getAttackDamageBonus() {
 				return 127998f;
 			}
 
-			public int getHarvestLevel() {
+			public int getLevel() {
 				return 4;
 			}
 
-			public int getEnchantability() {
+			public int getEnchantmentValue() {
 				return 100;
 			}
 
-			public Ingredient getRepairMaterial() {
-				return Ingredient.fromStacks(new ItemStack(BedrockIngotItem.block));
+			public Ingredient getRepairIngredient() {
+				return Ingredient.of(new ItemStack(BedrockmodModItems.BEDROCK_INGOT));
 			}
-		}, 3, 16f, new Item.Properties().group(RainbowTabItemGroup.tab).isImmuneToFire()) {
-		}.setRegistryName("bedrock_sword"));
+		}, 3, 16f, new Item.Properties().tab(BedrockmodModTabs.TAB_RAINBOW_TAB).fireResistant());
+		setRegistryName("bedrock_sword");
 	}
 }

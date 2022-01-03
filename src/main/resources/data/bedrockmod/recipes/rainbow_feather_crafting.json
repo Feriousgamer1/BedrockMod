@@ -1,0 +1,21 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "FBF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "B": {
+      "item": "bedrockmod:bedrock_ingot"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:flight_feather",
+    "count": 1
+  }
+}

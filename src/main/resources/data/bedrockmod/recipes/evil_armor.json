@@ -1,0 +1,17 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "bedrockmod:dark_block"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:dark_armor_boots",
+    "count": 1
+  }
+}

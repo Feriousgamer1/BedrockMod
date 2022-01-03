@@ -1,4 +1,5 @@
 {
+  "group": "bedrockmod",
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {

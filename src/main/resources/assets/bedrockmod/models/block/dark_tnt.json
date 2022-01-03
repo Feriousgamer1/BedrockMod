@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bedrockmod:blocks/dark_tnt_bottom",
+    "up": "bedrockmod:blocks/dark_tnt_top",
+    "north": "bedrockmod:blocks/dark_tnt_sides",
+    "east": "bedrockmod:blocks/dark_tnt_sides",
+    "south": "bedrockmod:blocks/dark_tnt_sides",
+    "west": "bedrockmod:blocks/dark_tnt_sides",
+    "particle": "bedrockmod:blocks/dark_tnt_bottom"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "dark_shovel",
+    "customModelName": "Normal",
+    "name": "Evil Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RainbowTab"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 30,
+    "efficiency": 30.0,
+    "attackSpeed": 20.0,
+    "enchantability": 100,
+    "damageVsEntity": 0.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BGB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "bedrockmod:bedrock_block"
+    },
+    "G": {
+      "item": "bedrockmod:golden_key"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:secret_key",
+    "count": 1
+  }
+}

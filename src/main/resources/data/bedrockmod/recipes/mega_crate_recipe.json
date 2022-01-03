@@ -1,0 +1,30 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "LCR",
+    "BBB"
+  ],
+  "key": {
+    "D": {
+      "item": "bedrockmod:dark_block"
+    },
+    "L": {
+      "item": "bedrockmod:locked_crate"
+    },
+    "C": {
+      "item": "bedrockmod:crafting_crate"
+    },
+    "R": {
+      "item": "bedrockmod:rainbow_crate"
+    },
+    "B": {
+      "item": "bedrockmod:bedrock_block"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:mega_crate",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bedrockmod:block/dark_block"
+    }
+  }
+}

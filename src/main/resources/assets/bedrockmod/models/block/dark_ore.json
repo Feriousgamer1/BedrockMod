@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bedrockmod:blocks/dark_ore",
+    "up": "bedrockmod:blocks/dark_ore",
+    "north": "bedrockmod:blocks/dark_ore",
+    "east": "bedrockmod:blocks/dark_ore",
+    "south": "bedrockmod:blocks/dark_ore",
+    "west": "bedrockmod:blocks/dark_ore",
+    "particle": "bedrockmod:blocks/dark_ore"
+  }
+}

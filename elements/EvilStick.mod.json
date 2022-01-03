@@ -1,34 +1,46 @@
 {
   "_fv": 24,
-  "_type": "item",
+  "_type": "recipe",
   "definition": {
-    "renderType": 0,
-    "texture": "dark_stick",
-    "customModelName": "Normal",
-    "name": "Evil Stick",
-    "rarity": "COMMON",
-    "creativeTab": {
-      "value": "CUSTOM:Eviltab"
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkIngot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkStick"
     },
-    "stackSize": 64,
-    "enchantability": 0,
-    "useDuration": 0,
-    "toolType": 1.0,
-    "damageCount": 0,
-    "recipeRemainder": {
-      "value": ""
-    },
-    "destroyAnyBlock": false,
-    "immuneToFire": false,
-    "stayInGridWhenCrafting": false,
-    "damageOnCrafting": false,
-    "enableMeleeDamage": false,
-    "damageVsEntity": 0.0,
-    "specialInfo": [],
-    "hasGlow": false,
-    "guiBoundTo": "<NONE>",
-    "inventorySize": 9,
-    "inventoryStackSize": 64,
-    "hasDispenseBehavior": false
+    "name": "evil_stick",
+    "namespace": "mod"
   }
 }

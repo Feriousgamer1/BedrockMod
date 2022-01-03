@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bedrockmod:blocks/block_of_rainbow",
+    "up": "bedrockmod:blocks/block_of_rainbow",
+    "north": "bedrockmod:blocks/block_of_rainbow",
+    "east": "bedrockmod:blocks/rainbow_diamond_ore",
+    "south": "bedrockmod:blocks/rainbow_diamond_ore",
+    "west": "bedrockmod:blocks/rainbow_diamond_ore",
+    "particle": "bedrockmod:blocks/block_of_rainbow"
+  }
+}

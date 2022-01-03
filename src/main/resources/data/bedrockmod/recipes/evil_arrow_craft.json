@@ -1,0 +1,24 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F",
+    "D",
+    "A"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "D": {
+      "item": "bedrockmod:dark_ingot"
+    },
+    "A": {
+      "item": "bedrockmod:dark_feather"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:dark_arrow",
+    "count": 1
+  }
+}

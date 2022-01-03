@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "dark_pickaxe",
+    "customModelName": "Normal",
+    "name": "Rainbow Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RainbowTab"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 100,
+    "efficiency": 99999.0,
+    "attackSpeed": 100.0,
+    "enchantability": 100000,
+    "damageVsEntity": 100.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

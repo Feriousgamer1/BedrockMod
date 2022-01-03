@@ -1,62 +1,46 @@
 {
   "_fv": 24,
-  "_type": "armor",
+  "_type": "recipe",
   "definition": {
-    "enableHelmet": true,
-    "textureHelmet": "dark_helmet",
-    "enableBody": true,
-    "textureBody": "dark_chestplate",
-    "enableLeggings": true,
-    "textureLeggings": "dark_leggings",
-    "enableBoots": true,
-    "textureBoots": "dark_boots",
-    "creativeTab": {
-      "value": "CUSTOM:Eviltab"
-    },
-    "armorTextureFile": "evil",
-    "helmetName": "Evil Helmet",
-    "bodyName": "Evil Chestplate",
-    "leggingsName": "Evil Leggings",
-    "bootsName": "Evil Boots",
-    "helmetSpecialInfo": [],
-    "bodySpecialInfo": [],
-    "leggingsSpecialInfo": [],
-    "bootsSpecialInfo": [],
-    "helmetModelName": "Default",
-    "helmetModelPart": "Helmet",
-    "helmetModelTexture": "From armor",
-    "bodyModelName": "Default",
-    "bodyModelPart": "Body",
-    "armsModelPartL": "Arms L",
-    "armsModelPartR": "Arms R",
-    "bodyModelTexture": "From armor",
-    "leggingsModelName": "Default",
-    "leggingsModelPartL": "Leggings L",
-    "leggingsModelPartR": "Leggings R",
-    "leggingsModelTexture": "From armor",
-    "bootsModelName": "Default",
-    "bootsModelPartL": "Boots L",
-    "bootsModelPartR": "Boots R",
-    "bootsModelTexture": "From armor",
-    "helmetImmuneToFire": false,
-    "bodyImmuneToFire": false,
-    "leggingsImmuneToFire": false,
-    "bootsImmuneToFire": false,
-    "maxDamage": 1024,
-    "damageValueHelmet": 1024,
-    "damageValueBody": 1024,
-    "damageValueLeggings": 1024,
-    "damageValueBoots": 1024,
-    "enchantability": 100,
-    "toughness": 10.0,
-    "knockbackResistance": 5.0,
-    "equipSound": {
-      "value": ""
-    },
-    "repairItems": [
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
       {
-        "value": "CUSTOM:EvilBlock"
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkBlock"
+      },
+      {
+        "value": "CUSTOM:DarkBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkBlock"
       }
-    ]
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkArmor.boots"
+    },
+    "name": "evil_armor",
+    "namespace": "mod"
   }
 }

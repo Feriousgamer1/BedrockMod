@@ -1,0 +1,18 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bedrockmod:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:dark_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BIB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:birch_log"
+    },
+    "I": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:crafting_crate",
+    "count": 1
+  }
+}

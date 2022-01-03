@@ -5,40 +5,40 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 6,
+    "recipeRetstackSize": 4,
     "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Evil"
+        "value": "CUSTOM:DarkIngot"
       },
       {
-        "value": "CUSTOM:Evil"
+        "value": "CUSTOM:DarkIngot"
       },
       {
-        "value": "CUSTOM:Evil"
+        "value": "CUSTOM:DarkIngot"
       },
       {
-        "value": "CUSTOM:Evil"
+        "value": "CUSTOM:DarkIngot"
       },
       {
         "value": "Blocks.GLASS"
       },
       {
-        "value": "CUSTOM:Evil"
+        "value": "CUSTOM:DarkIngot"
       },
       {
-        "value": "CUSTOM:Evil"
+        "value": "CUSTOM:DarkIngot"
       },
       {
-        "value": "CUSTOM:Evil"
+        "value": "CUSTOM:DarkIngot"
       },
       {
-        "value": "CUSTOM:Evil"
+        "value": "CUSTOM:DarkIngot"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:EvilGlass"
+      "value": "CUSTOM:DarkGlass"
     },
     "name": "evil_glass_craft",
     "namespace": "mod"

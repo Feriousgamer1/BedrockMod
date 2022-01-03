@@ -1,0 +1,18 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bedrockmod:dark_ingot"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:deleted_mod_element",
+    "count": 1
+  }
+}

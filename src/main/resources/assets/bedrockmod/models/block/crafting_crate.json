@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bedrockmod:blocks/reinforced_crate",
+    "up": "bedrockmod:blocks/reinforced_crate",
+    "north": "bedrockmod:blocks/reinforced_crate",
+    "east": "bedrockmod:blocks/reinforced_crate",
+    "south": "bedrockmod:blocks/reinforced_crate",
+    "west": "bedrockmod:blocks/reinforced_crate",
+    "particle": "bedrockmod:blocks/reinforced_crate"
+  }
+}

@@ -1,36 +1,13 @@
 {
+  "group": "bedrockmod",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "012",
-    "345",
-    "678"
+    "###",
+    "###",
+    "###"
   ],
   "key": {
-    "0": {
-      "item": "bedrockmod:bedrock_block"
-    },
-    "1": {
-      "item": "bedrockmod:bedrock_block"
-    },
-    "2": {
-      "item": "bedrockmod:bedrock_block"
-    },
-    "3": {
-      "item": "bedrockmod:bedrock_block"
-    },
-    "4": {
-      "item": "bedrockmod:bedrock_block"
-    },
-    "5": {
-      "item": "bedrockmod:bedrock_block"
-    },
-    "6": {
-      "item": "bedrockmod:bedrock_block"
-    },
-    "7": {
-      "item": "bedrockmod:bedrock_block"
-    },
-    "8": {
+    "#": {
       "item": "bedrockmod:bedrock_block"
     }
   },

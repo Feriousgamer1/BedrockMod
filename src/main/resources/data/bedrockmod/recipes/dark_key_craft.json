@@ -1,0 +1,21 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DGD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "bedrockmod:dark_block"
+    },
+    "G": {
+      "item": "bedrockmod:golden_key"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:key",
+    "count": 1
+  }
+}

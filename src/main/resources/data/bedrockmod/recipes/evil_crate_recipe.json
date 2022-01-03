@@ -1,0 +1,21 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DCD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "bedrockmod:dark_block"
+    },
+    "C": {
+      "item": "bedrockmod:crafting_crate"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:locked_crate",
+    "count": 1
+  }
+}

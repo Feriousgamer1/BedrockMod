@@ -1,5 +1,4 @@
 {
-  "id_map": {},
   "mod_elements": [
     {
       "name": "BedrockIngot",
@@ -7,7 +6,6 @@
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_ingot",
       "path": "~/Rainbow Set/Rainbow_Items"
     },
@@ -17,7 +15,6 @@
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_ore",
       "path": "~/Rainbow Set/Rainbow_Items"
     },
@@ -27,7 +24,6 @@
       "sortid": 3,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_block",
       "path": "~/Rainbow Set/Rainbow_Items"
     },
@@ -37,7 +33,6 @@
       "sortid": 4,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_ore_block_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -47,7 +42,6 @@
       "sortid": 5,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_block_ore_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -57,7 +51,6 @@
       "sortid": 6,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_ore_smelting",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -67,7 +60,6 @@
       "sortid": 7,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_pickaxe",
       "path": "~/Rainbow Set/Rainbow_Items"
     },
@@ -77,7 +69,6 @@
       "sortid": 8,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_axe",
       "path": "~/Rainbow Set/Rainbow_Items"
     },
@@ -87,7 +78,6 @@
       "sortid": 9,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_sword",
       "path": "~/Rainbow Set/Rainbow_Items"
     },
@@ -97,7 +87,6 @@
       "sortid": 10,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_shovel",
       "path": "~/Rainbow Set/Rainbow_Items"
     },
@@ -107,7 +96,6 @@
       "sortid": 11,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_hoe",
       "path": "~/Rainbow Set/Rainbow_Items"
     },
@@ -117,7 +105,6 @@
       "sortid": 12,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_pickaxe_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -127,7 +114,6 @@
       "sortid": 13,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_axe_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -137,7 +123,6 @@
       "sortid": 14,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_sword_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -147,7 +132,6 @@
       "sortid": 15,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_shovel_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -157,7 +141,6 @@
       "sortid": 16,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_hoe_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -167,7 +150,6 @@
       "sortid": 17,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_armor",
       "metadata": {
         "eh": true,
@@ -183,7 +165,6 @@
       "sortid": 18,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_armor_helmet_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -193,7 +174,6 @@
       "sortid": 19,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_armor_body_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -203,7 +183,6 @@
       "sortid": 20,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_armor_leggings_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -213,7 +192,6 @@
       "sortid": 21,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_armor_boots_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -223,7 +201,6 @@
       "sortid": 28,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "o_potion_bottle",
       "path": "~/Potions/Lucky"
     },
@@ -233,7 +210,6 @@
       "sortid": 30,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rock",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -243,7 +219,6 @@
       "sortid": 31,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "bedrock_stick",
       "path": "~/Rainbow Set/Rainbow_Items"
     },
@@ -253,19 +228,8 @@
       "sortid": 33,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "supe",
       "path": "~/Food"
-    },
-    {
-      "name": "KillerSteve",
-      "type": "livingentity",
-      "sortid": 34,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "killer_steve",
-      "path": "~/Evil"
     },
     {
       "name": "OPMaker",
@@ -273,7 +237,6 @@
       "sortid": 35,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "op_maker",
       "path": "~/Potions/Lucky"
     },
@@ -283,7 +246,6 @@
       "sortid": 36,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "half",
       "path": "~/Potions/Lucky"
     },
@@ -293,7 +255,6 @@
       "sortid": 37,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "quarter",
       "path": "~/Potions/Lucky"
     },
@@ -303,7 +264,6 @@
       "sortid": 38,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "threequarters",
       "path": "~/Potions/Lucky"
     },
@@ -313,7 +273,6 @@
       "sortid": 39,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "three_quarterscraft",
       "path": "~/Potions/Lucky"
     },
@@ -323,7 +282,6 @@
       "sortid": 40,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "half_craft",
       "path": "~/Potions/Lucky"
     },
@@ -333,39 +291,8 @@
       "sortid": 41,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "quarter_craft",
       "path": "~/Potions/Lucky"
-    },
-    {
-      "name": "EvilBlock",
-      "type": "block",
-      "sortid": 76,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_block",
-      "path": "~/Evil/Evil_Items"
-    },
-    {
-      "name": "YourAHorriblePerson",
-      "type": "potion",
-      "sortid": 43,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "your_a_horrible_person",
-      "path": "~/Potions/Unlucky"
-    },
-    {
-      "name": "EvilPotion",
-      "type": "recipe",
-      "sortid": 44,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_potion",
-      "path": "~/Potions/Unlucky"
     },
     {
       "name": "Wagyu",
@@ -373,7 +300,6 @@
       "sortid": 45,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "wagyu",
       "path": "~/Food"
     },
@@ -383,7 +309,6 @@
       "sortid": 46,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "cooked_steak",
       "path": "~/Food"
     },
@@ -393,19 +318,8 @@
       "sortid": 47,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "op_cow",
       "path": "~/Food"
-    },
-    {
-      "name": "DemonArrow",
-      "type": "item",
-      "sortid": 48,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "demon_arrow",
-      "path": "~/Evil/Evil_Items"
     },
     {
       "name": "RainbowArrow",
@@ -413,19 +327,8 @@
       "sortid": 49,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rainbow_arrow",
       "path": "~/Rainbow Set/Rainbow_Items"
-    },
-    {
-      "name": "DemonBow",
-      "type": "rangeditem",
-      "sortid": 48,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "demon_bow",
-      "path": "~/Evil/Evil_Items"
     },
     {
       "name": "RainbowBow",
@@ -433,19 +336,8 @@
       "sortid": 50,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rainbow_bow",
       "path": "~/Rainbow Set/Rainbow_Items"
-    },
-    {
-      "name": "DemonBowCraft",
-      "type": "recipe",
-      "sortid": 51,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "demon_bow_craft",
-      "path": "~/Evil/Evil_Crafting_recipes"
     },
     {
       "name": "RainbowBowCraft",
@@ -453,19 +345,8 @@
       "sortid": 52,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rainbow_bow_craft",
       "path": "~/Rainbow Set/Rainbow_Crafting"
-    },
-    {
-      "name": "DemonArrowCraft",
-      "type": "recipe",
-      "sortid": 53,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "demon_arrow_craft",
-      "path": "~/Evil/Evil_Crafting_recipes"
     },
     {
       "name": "RainbowArrowCraft",
@@ -473,65 +354,8 @@
       "sortid": 54,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rainbow_arrow_craft",
       "path": "~/Rainbow Set/Rainbow_Crafting"
-    },
-    {
-      "name": "EvilArmor",
-      "type": "armor",
-      "sortid": 55,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_armor",
-      "metadata": {
-        "eh": true,
-        "el": true,
-        "eb": true,
-        "ec": true
-      },
-      "path": "~/Evil/Evil_Items"
-    },
-    {
-      "name": "EvilArmorHelmetRecipe",
-      "type": "recipe",
-      "sortid": 56,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_armor_helmet_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "EvilArmorBodyRecipe",
-      "type": "recipe",
-      "sortid": 57,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_armor_body_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "EvilArmorLeggingsRecipe",
-      "type": "recipe",
-      "sortid": 58,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_armor_leggings_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "EvilArmorBootsRecipe",
-      "type": "recipe",
-      "sortid": 59,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_armor_boots_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
     },
     {
       "name": "RainbowTab",
@@ -539,199 +363,7 @@
       "sortid": 60,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "registry_name": "rainbow_tab",
-      "path": "~/Rainbow Set"
-    },
-    {
-      "name": "Eviltab",
-      "type": "tab",
-      "sortid": 61,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "eviltab",
-      "path": "~/Evil"
-    },
-    {
-      "name": "EvilPickaxe",
-      "type": "tool",
-      "sortid": 63,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_pickaxe",
-      "path": "~/Evil/Evil_Items"
-    },
-    {
-      "name": "EvilAxe",
-      "type": "tool",
-      "sortid": 64,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_axe",
-      "path": "~/Evil/Evil_Items"
-    },
-    {
-      "name": "EvilSword",
-      "type": "tool",
-      "sortid": 65,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_sword",
-      "path": "~/Evil/Evil_Items"
-    },
-    {
-      "name": "EvilShovel",
-      "type": "tool",
-      "sortid": 66,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_shovel",
-      "path": "~/Evil/Evil_Items"
-    },
-    {
-      "name": "EvilHoe",
-      "type": "tool",
-      "sortid": 67,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_hoe",
-      "path": "~/Evil/Evil_Items"
-    },
-    {
-      "name": "EvilPickaxeRecipe",
-      "type": "recipe",
-      "sortid": 68,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_pickaxe_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "EvilAxeRecipe",
-      "type": "recipe",
-      "sortid": 69,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_axe_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "EvilSwordRecipe",
-      "type": "recipe",
-      "sortid": 70,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_sword_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "EvilShovelRecipe",
-      "type": "recipe",
-      "sortid": 71,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_shovel_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "EvilHoeRecipe",
-      "type": "recipe",
-      "sortid": 72,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_hoe_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "EvilStick",
-      "type": "item",
-      "sortid": 73,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_stick",
-      "path": "~/Evil/Evil_Items"
-    },
-    {
-      "name": "Evil",
-      "type": "item",
-      "sortid": 74,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil",
-      "path": "~/Evil/Evil_Items"
-    },
-    {
-      "name": "EvilOre",
-      "type": "block",
-      "sortid": 75,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_ore",
-      "path": "~/Evil/Evil_Items"
-    },
-    {
-      "name": "EvilOreBlockRecipe",
-      "type": "recipe",
-      "sortid": 77,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_ore_block_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "EvilBlockOreRecipe",
-      "type": "recipe",
-      "sortid": 78,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_block_ore_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "EvilOreSmelting",
-      "type": "recipe",
-      "sortid": 79,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_ore_smelting",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "CursedBlockRecipe",
-      "type": "recipe",
-      "sortid": 81,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cursed_block_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
-    },
-    {
-      "name": "StickRecipe",
-      "type": "recipe",
-      "sortid": 82,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stick_recipe",
-      "path": "~/Evil/Evil_Crafting_recipes"
+      "registry_name": "rainbow_tab"
     },
     {
       "name": "RainbowStick",
@@ -739,19 +371,8 @@
       "sortid": 83,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rainbow_stick",
       "path": "~/Rainbow Set/Rainbow_Crafting"
-    },
-    {
-      "name": "EvilGlass",
-      "type": "block",
-      "sortid": 84,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_glass",
-      "path": "~/Evil/Evil_Items"
     },
     {
       "name": "RainbowGlass",
@@ -759,7 +380,6 @@
       "sortid": 85,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "rainbow_glass",
       "path": "~/Rainbow Set/Rainbow_Items"
     },
@@ -769,19 +389,8 @@
       "sortid": 86,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "glass_breaker",
       "path": "~/Rainbow Set/Rainbow_Items"
-    },
-    {
-      "name": "EvilBreaker",
-      "type": "tool",
-      "sortid": 87,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_breaker",
-      "path": "~/Evil/Evil_Items"
     },
     {
       "name": "GlassCraft",
@@ -789,7 +398,6 @@
       "sortid": 88,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "glass_craft",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
@@ -799,48 +407,34 @@
       "sortid": 89,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
       "registry_name": "breaker_recipe",
       "path": "~/Rainbow Set/Rainbow_Crafting"
     },
     {
-      "name": "EvilGlassCraft",
-      "type": "recipe",
-      "sortid": 90,
+      "name": "RainbowFlight",
+      "type": "potioneffect",
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_glass_craft",
-      "path": "~/Evil/Evil_Crafting_recipes"
+      "registry_name": "rainbow_flight",
+      "path": "~/Potions/Flight"
     },
     {
-      "name": "EvilGlassBreakerCraft",
-      "type": "recipe",
-      "sortid": 91,
+      "name": "RainbowFlightItem",
+      "type": "potion",
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "registry_name": "evil_glass_breaker_craft",
-      "path": "~/Evil/Evil_Crafting_recipes"
+      "registry_name": "rainbow_flight_item",
+      "path": "~/Potions/Flight"
     },
     {
-      "name": "CurseBlock",
-      "type": "block",
-      "sortid": 94,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "curse_block",
-      "path": "~/Evil/Evil_Items"
-    },
-    {
-      "name": "BedrockArmorHelmetTickEvent",
+      "name": "RainbowFlightProcedure",
       "type": "procedure",
-      "sortid": 95,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "registry_name": "bedrock_armor_helmet_tick_event",
+      "registry_name": "rainbow_flight_procedure",
       "metadata": {
         "dependencies": [
           {
@@ -849,73 +443,1016 @@
           }
         ]
       },
+      "path": "~/Potions/Flight"
+    },
+    {
+      "name": "FlightFeather",
+      "type": "item",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flight_feather",
+      "path": "~/Potions/Flight"
+    },
+    {
+      "name": "RainbowFeatherCrafting",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_feather_crafting",
+      "path": "~/Potions/Flight"
+    },
+    {
+      "name": "RainbowFlightbrewing",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_flightbrewing",
+      "path": "~/Potions/Flight"
+    },
+    {
+      "name": "RainbowOverpowered",
+      "type": "enchantment",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_overpowered",
+      "path": "~/Enchantments"
+    },
+    {
+      "name": "EvilBreakerRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_breaker_recipe",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilGlassCraft",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_glass_craft",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilStick",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_stick",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilArrowCraft",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_arrow_craft",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilBowCraft",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_bow_craft",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilArmor",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_armor",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilOreBlock",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_ore_block",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilOreSmelting",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_ore_smelting",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilPickaxeCraft",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_pickaxe_craft",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilAxeCraft",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_axe_craft",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilSwordRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_sword_recipe",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilShovelRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_shovel_recipe",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilHoeRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_hoe_recipe",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilHelmet",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_helmet",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "EvilChestplate",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_chestplate",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "DarkIngot",
+      "type": "item",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_ingot",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkOre",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_ore",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkBlock",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_block",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkPickaxe",
+      "type": "tool",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_pickaxe",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkAxe",
+      "type": "tool",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_axe",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkSword",
+      "type": "tool",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sword",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkShovel",
+      "type": "tool",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_shovel",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkHoe",
+      "type": "tool",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_hoe",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkArmor",
+      "type": "armor",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkStick",
+      "type": "item",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_stick",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkArrow",
+      "type": "item",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_arrow",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkBow",
+      "type": "rangeditem",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_bow",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkGlass",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_glass",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkBreaker",
+      "type": "tool",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_breaker",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkFeather",
+      "type": "item",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_feather",
+      "path": "~/Potions/Flight"
+    },
+    {
+      "name": "EvilBlockRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_block_recipe",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "DarkLeggingsrecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_leggingsrecipe",
+      "path": "~/Evil Set/Dark Crafting"
+    },
+    {
+      "name": "DarkFullArmorBonus",
+      "type": "procedure",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_full_armor_bonus",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Enchantments"
+    },
+    {
+      "name": "RainbowFullArmorBonus",
+      "type": "procedure",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_full_armor_bonus",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Enchantments"
+    },
+    {
+      "name": "DarkOverpowered",
+      "type": "enchantment",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_overpowered",
+      "path": "~/Enchantments"
+    },
+    {
+      "name": "EnchantedRainbowFullArmor",
+      "type": "procedure",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchanted_rainbow_full_armor",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Enchantments"
+    },
+    {
+      "name": "DarkEnchantedFullArmor",
+      "type": "procedure",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_enchanted_full_armor",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Enchantments"
+    },
+    {
+      "name": "FeatherFly",
+      "type": "procedure",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "feather_fly",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Potions/Flight"
+    },
+    {
+      "name": "LockedCrate",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locked_crate",
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "CrateGui",
+      "type": "gui",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crate_gui",
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "Key",
+      "type": "item",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key",
+      "path": "~/Extra/Keys"
+    },
+    {
+      "name": "CrateRightCLick",
+      "type": "procedure",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crate_right_c_lick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "RainbowCrate",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_crate",
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "RainbowCraftUnlock",
+      "type": "procedure",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_craft_unlock",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "RainbowCrateGUI",
+      "type": "gui",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_crate_gui",
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "SecretKey",
+      "type": "item",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "secret_key",
+      "path": "~/Extra/Keys"
+    },
+    {
+      "name": "RainbowKey",
+      "type": "item",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_key",
+      "path": "~/Extra/Keys"
+    },
+    {
+      "name": "SecretCrate",
+      "type": "gui",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "secret_crate",
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "SecretCrateBox",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "secret_crate_box",
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "SecretCrateProcedure",
+      "type": "procedure",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "secret_crate_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "Keys",
+      "type": "tab",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "keys",
+      "path": "~/Extra/Keys"
+    },
+    {
+      "name": "GoldenKey",
+      "type": "item",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_key",
+      "path": "~/Extra/Keys"
+    },
+    {
+      "name": "MegaKey",
+      "type": "item",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mega_key",
+      "path": "~/Extra/Keys"
+    },
+    {
+      "name": "DarkKeyCraft",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_key_craft",
+      "path": "~/Extra/Keys/Crafting Recipes"
+    },
+    {
+      "name": "RainbowKeyCraft",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_key_craft",
+      "path": "~/Extra/Keys/Crafting Recipes"
+    },
+    {
+      "name": "MegaKeyCrafting",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mega_key_crafting",
+      "path": "~/Extra/Keys/Crafting Recipes"
+    },
+    {
+      "name": "MegaCrateProcedure",
+      "type": "procedure",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mega_crate_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "MegaCrate",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mega_crate",
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "CraftingCrate",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_crate",
+      "path": "~/Extra/Crates"
+    },
+    {
+      "name": "CrateCrafting",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crate_crafting",
+      "path": "~/Extra/Crates/Crafting Recipes"
+    },
+    {
+      "name": "EvilCrateRecipe",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_crate_recipe",
+      "path": "~/Extra/Crates/Crafting Recipes"
+    },
+    {
+      "name": "RainbowCrateRecipe",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_crate_recipe",
+      "path": "~/Extra/Crates/Crafting Recipes"
+    },
+    {
+      "name": "MegaCrateRecipe",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mega_crate_recipe",
+      "path": "~/Extra/Crates/Crafting Recipes"
+    },
+    {
+      "name": "GoldenKeyCrafting",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_key_crafting",
+      "path": "~/Extra/Keys/Crafting Recipes"
+    },
+    {
+      "name": "SwordBuffs",
+      "type": "procedure",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_buffs",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/All"
+    },
+    {
+      "name": "HoeBuffs",
+      "type": "procedure",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_buffs",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/All"
+    },
+    {
+      "name": "ToolsBuffs",
+      "type": "procedure",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tools_buffs",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/All"
+    },
+    {
+      "name": "DarkTNT",
+      "type": "block",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_tnt",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "RainbowTNT",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_tnt",
       "path": "~/Rainbow Set/Rainbow_Items"
+    },
+    {
+      "name": "RainbowFlintSteel",
+      "type": "item",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_flint_steel",
+      "path": "~/Rainbow Set/Rainbow_Items"
+    },
+    {
+      "name": "RainbowTNTOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_tnt_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Rainbow Set/Procedures"
+    },
+    {
+      "name": "EvilFlintSteel",
+      "type": "item",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evil_flint_steel",
+      "path": "~/Evil Set/Dark Items"
+    },
+    {
+      "name": "DarkTNTOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_tnt_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Evil Set/Procedures"
     }
   ],
-  "variable_elements": [],
+  "variable_elements": [
+    {
+      "name": "water_amount",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "10.0"
+    }
+  ],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.bedrockmod.evil_shovel": "Evil Shovel",
-      "item.minecraft.potion.effect.your_a_horrible_person": "Unlucky potion",
-      "item.bedrockmod.evil_stick": "Evil Stick",
-      "block.bedrockmod.evil_ore": "Evil Ore",
+      "itemGroup.tabkeys": "Crates",
+      "item.minecraft.potion.effect.rainbow_flight_item": "Potion of  Flight",
+      "item.bedrockmod.dark_armor_helmet": "Evil Helmet",
+      "item.bedrockmod.dark_hoe": "Evil Hoe",
       "item.bedrockmod.bedrock_sword": "Rainbow Sword",
+      "block.bedrockmod.rainbow_crate": "Rainbow Crate",
+      "block.bedrockmod.crafting_crate": "Crafting Crate",
+      "effect.rainbow_flight": "Flight",
+      "enchantment.bedrockmod.rainbow_overpowered": "Rainbow Overpowered",
+      "item.bedrockmod.golden_key": "Golden Key",
+      "block.bedrockmod.rainbow_tnt": "Rainbow TNT",
       "item.minecraft.splash_potion.effect.quarter": "Why did you make this?",
+      "item.bedrockmod.dark_bow": "Rainbow Bow",
+      "item.bedrockmod.mega_key": "Mega Key",
       "item.minecraft.lingering_potion.effect.o_potion_bottle": "lingering potion of unkillable",
-      "block.bedrockmod.curse_block": "Cursed Block",
-      "itemGroup.tabrainbow_tab": "Rainbow Tab",
-      "item.bedrockmod.demon_arrow": "Demon Arrow",
+      "item.minecraft.lingering_potion.effect.rainbow_flight_item": "Lingering Potion of  Flight",
+      "itemGroup.tabrainbow_tab": "Mega Mod",
+      "item.bedrockmod.dark_ingot": "Dark Gem",
       "item.minecraft.splash_potion.effect.o_potion_bottle": "splash potion of unkillable",
-      "item.bedrockmod.evil_armor_chestplate": "Evil Chestplate",
+      "item.bedrockmod.rainbow_flint_steel": "Rainbow Flint Steel",
       "item.bedrockmod.bedrock_armor_chestplate": "Bedrock Chestplate",
       "item.bedrockmod.bedrock_armor_boots": "Bedrock Boots",
-      "item.bedrockmod.evil_sword": "Evil Sword",
+      "item.bedrockmod.rainbow_key": "Universal Key",
+      "block.bedrockmod.dark_glass": "Rainbow Glass",
       "item.bedrockmod.bedrock_stick": "Bedrock Stick",
       "item.minecraft.tipped_arrow.effect.half": "why did you make this",
       "item.bedrockmod.bedrock_axe": "Rainbow Axe",
-      "block.bedrockmod.evil_glass": "Evil Glass",
       "item.bedrockmod.bedrock_ingot": "Bedrock",
       "item.minecraft.tipped_arrow.effect.o_potion_bottle": "DONT MAKE THIS",
-      "block.bedrockmod.bedrock_ore": "Bedrock Ore",
       "item.minecraft.potion.effect.half": "Potion of Half way there",
+      "block.bedrockmod.bedrock_ore": "Bedrock Ore",
+      "item.bedrockmod.secret_key": "Rainbow Key",
       "item.bedrockmod.rainbow_bow": "Rainbow Bow",
-      "item.minecraft.lingering_potion.effect.your_a_horrible_person": "Unlucky lingering potion",
+      "block.bedrockmod.dark_ore": "Evil Ore",
+      "item.bedrockmod.dark_breaker": "Glass Breaker",
+      "item.bedrockmod.dark_feather": "Dark Feather",
       "block.bedrockmod.rainbow_glass": "Rainbow Glass",
+      "block.bedrockmod.mega_crate": "Mega Crate",
       "entity.bedrockmod.op_cow": "OP Cow",
-      "item.bedrockmod.evil_axe": "Evil Axe",
-      "item.bedrockmod.evil": "Evil",
-      "item.minecraft.tipped_arrow.effect.your_a_horrible_person": "Unlucky Arrow",
+      "item.bedrockmod.dark_pickaxe": "Rainbow Pickaxe",
+      "enchantment.bedrockmod.dark_overpowered": "Dark Overpowered",
+      "item.bedrockmod.dark_armor_leggings": "Evil Leggings",
+      "item.bedrockmod.dark_armor_boots": "Evil Boots",
+      "item.bedrockmod.dark_stick": "Bedrock Stick",
+      "item.minecraft.splash_potion.effect.rainbow_flight_item": "Splash Potion of Flight",
+      "item.bedrockmod.evil_flint_steel": "Evil Flint Steel",
+      "item.bedrockmod.dark_armor_chestplate": "Evil Chestplate",
       "item.bedrockmod.bedrock_armor_leggings": "Bedrock Leggings",
+      "item.bedrockmod.dark_shovel": "Evil Shovel",
+      "block.bedrockmod.secret_crate_box": "Secret Crate",
       "item.minecraft.lingering_potion.effect.half": "why did you make this",
       "item.minecraft.lingering_potion.effect.quarter": "Why did you make this?",
       "item.minecraft.splash_potion.effect.half": "why did you make this",
+      "item.bedrockmod.dark_arrow": "Rainbow Arrow",
       "item.bedrockmod.wagyu": "A5 Wagyu",
       "item.bedrockmod.rainbow_arrow": "Rainbow Arrow",
-      "entity.bedrockmod.killer_steve": "Killer Steve",
       "item.minecraft.lingering_potion.effect.threequarters": "WHY DID YOU MAKE THIS",
+      "item.bedrockmod.dark_sword": "Evil Sword",
       "block.bedrockmod.bedrock_block": "Block of Bedrock",
+      "item.bedrockmod.dark_axe": "Evil Axe",
+      "block.bedrockmod.dark_tnt": "Dark TNT",
       "item.minecraft.tipped_arrow.effect.quarter": "Why did you make this?",
+      "item.bedrockmod.key": "Dark Key",
       "item.bedrockmod.bedrock_armor_helmet": "Bedrock Helmet",
-      "itemGroup.tabeviltab": "Eviltab",
       "item.minecraft.tipped_arrow.effect.threequarters": "WHY DID YOU MAKE THIS",
-      "item.bedrockmod.evil_armor_helmet": "Evil Helmet",
+      "item.minecraft.tipped_arrow.effect.rainbow_flight_item": "Arrow of  Flight",
+      "block.bedrockmod.locked_crate": "Evil Crate",
+      "effect.bedrockmod.rainbow_flight": "Flight",
       "item.minecraft.potion.effect.quarter": "Potion of Quarter",
-      "item.bedrockmod.evil_armor_leggings": "Evil Leggings",
-      "item.minecraft.splash_potion.effect.your_a_horrible_person": "Unlucky splash potion",
-      "item.bedrockmod.evil_hoe": "Evil Hoe",
-      "item.bedrockmod.killer_steve_spawn_egg": "Killer Steve Spawn Egg",
       "item.bedrockmod.bedrock_pickaxe": "Rainbow Pickaxe",
-      "item.bedrockmod.evil_pickaxe": "Evil Pickaxe",
-      "item.bedrockmod.demon_bow": "Demon Bow",
       "item.bedrockmod.bedrock_shovel": "Rainbow Shovel",
       "item.bedrockmod.glass_breaker": "Glass Breaker",
       "item.minecraft.splash_potion.effect.threequarters": "WHY DID YOU MAKE THIS",
       "item.bedrockmod.op_cow_spawn_egg": "OP Cow Spawn Egg",
-      "item.bedrockmod.evil_breaker": "Evil Breaker",
-      "item.bedrockmod.evil_armor_boots": "Evil Boots",
+      "block.bedrockmod.dark_block": "Evil Block",
       "item.bedrockmod.supe": "Raw Wagyu",
-      "block.bedrockmod.evil_block": "Block of Evil",
+      "item.bedrockmod.flight_feather": "Flight Feather",
       "item.bedrockmod.bedrock_hoe": "Rainbow Hoe",
       "item.minecraft.potion.effect.threequarters": "Potion of Threequarters",
       "item.minecraft.potion.effect.o_potion_bottle": "potion of unkillable"
@@ -934,6 +1471,10 @@
           {
             "name": "Rainbow_Items",
             "children": []
+          },
+          {
+            "name": "Procedures",
+            "children": []
           }
         ]
       },
@@ -949,46 +1490,82 @@
             "children": []
           },
           {
-            "name": "Unlucky",
+            "name": "Flight",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Enchantments",
+        "children": []
+      },
+      {
+        "name": "Evil Set",
+        "children": [
+          {
+            "name": "Dark Crafting",
+            "children": []
+          },
+          {
+            "name": "Dark Items",
+            "children": []
+          },
+          {
+            "name": "Procedures",
             "children": []
           }
         ]
       },
       {
         "name": "Extra",
-        "children": []
-      },
-      {
-        "name": "Evil",
         "children": [
           {
-            "name": "Evil_Crafting_recipes",
-            "children": []
+            "name": "Crates",
+            "children": [
+              {
+                "name": "Crafting Recipes",
+                "children": []
+              }
+            ]
           },
           {
-            "name": "Evil_Items",
+            "name": "Keys",
+            "children": [
+              {
+                "name": "Crafting Recipes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Custom Bars",
             "children": []
           }
         ]
+      },
+      {
+        "name": "All",
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "bedrockmod",
-    "modName": "BedrockMod",
+    "modName": "Rainbow Mod",
     "version": "1.0.0",
     "author": "Assaf, MCreator",
     "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
-    "disableForgeVersionCheck": true,
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": false,
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.16.5",
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.bedrockmod",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100351610
+  "mcreatorVersion": 202100353117
 }

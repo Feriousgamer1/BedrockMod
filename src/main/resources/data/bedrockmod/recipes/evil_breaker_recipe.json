@@ -1,0 +1,21 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DDD",
+    " A "
+  ],
+  "key": {
+    "D": {
+      "item": "bedrockmod:dark_ingot"
+    },
+    "A": {
+      "item": "bedrockmod:dark_stick"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:dark_breaker",
+    "count": 1
+  }
+}

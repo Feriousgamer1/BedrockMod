@@ -1,0 +1,21 @@
+{
+  "group": "bedrockmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "bedrockmod:bedrock_block"
+    },
+    "C": {
+      "item": "bedrockmod:crafting_crate"
+    }
+  },
+  "result": {
+    "item": "bedrockmod:rainbow_crate",
+    "count": 1
+  }
+}
